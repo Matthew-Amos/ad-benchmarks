@@ -1,0 +1,5 @@
+Scalar: Trial(735.091 ns)
+Vector: Trial(4.611 μs)
+Vector Vector: Trial(1.066 μs)
+Matrix: Trial(5.101 μs)
+Matrix Matrix: Trial(3.013 μs)
